@@ -186,6 +186,7 @@ select {
 }
 .formulario input[type='text'].nuevo-presupuesto,
 .formulario input[type='number'].nuevo-presupuesto {
+    width: 100%;
     font-size: 2.8rem;
     text-align: center;
 }
